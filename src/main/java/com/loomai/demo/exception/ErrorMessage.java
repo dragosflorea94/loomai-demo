@@ -1,7 +1,6 @@
 package com.loomai.demo.exception;
 
 import lombok.Getter;
-import lombok.Setter;
 
 @Getter
 public enum ErrorMessage {
